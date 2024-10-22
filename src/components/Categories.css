@@ -1,0 +1,34 @@
+.cat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+.button-item {
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: lightgray;
+    color: black;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.button-item:hover {
+    background-color: green;
+}
+
+.ayurveda-btn{
+    background-color: #4CAF50;
+    color: white;
+}
+
+.neu-btn{
+    background-color: black;
+    color: orange;
+}

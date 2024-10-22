@@ -1,0 +1,11 @@
+/* .ghee-home{
+    display: flex;
+    position: absolute;
+    background-color: black;
+} */
+
+.ghee-cards{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}

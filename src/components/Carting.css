@@ -1,0 +1,30 @@
+.carting-area{
+    border: solid 1px green;
+    width: 400px;
+    background-color: lightyellow;
+    color: green;
+    border-radius: 5px;
+    padding: 4px;
+    margin-left: 33%;
+    margin-top: 2%;
+}
+
+.carting-btn button{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 4px 4px;
+    margin: 10px;
+   
+}
+
+.carting-btn{
+    margin-top: 4px;
+    justify-content: center;
+   
+}
+
+.carting-btn button:hover{
+    background-color: orange;
+}
